@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+   div{
+        background-color: blue;
+        width: 30px;
+        height:20px;
+        margin: 2px;
+        border-radius: 50%;
+        text-align: center;
+    }
+   
+
+</style>
+   
+<body>
+
+
+     <div style="margin-right:40px">hi</div>
+    
+    <div>hi</div>
+    <div>hi</div>
+    <div>hi</div>
+    <div>hi</div>
+</div>
+    </body>
+
+</body>
+
+</body>
